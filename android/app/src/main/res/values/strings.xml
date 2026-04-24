@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Perfomate</string>
+    <string name="title_activity_main">Perfomate</string>
+    <string name="package_name">com.perfomate.app</string>
+    <string name="custom_url_scheme">com.perfomate.app</string>
+</resources>
